@@ -5,4 +5,5 @@ MEMBER :
 2. Kouyakou-Abalo SIMSOBA
 3. Arisha Zulfah Binti Abdul Razak
 4. Aysha Alia Iskandar
-5. Ilham Akbar 
+5. Ilham Akbar
+6. Abdul Basit Khan
